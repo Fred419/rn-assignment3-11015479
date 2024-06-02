@@ -1,6 +1,6 @@
 # rn-assignment3-11015479
-rn-assignment3-11146019 project
-<<<<<<< HEAD
+rn-assignment3-11015479 project
+
 
 View:
 =======
